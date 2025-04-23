@@ -1,5 +1,8 @@
 from customtkinter import *
 
+class logInWindow:
+    pass
+
 mainWindow = CTk()
 mainWindow.geometry("350x220")
 mainWindow.title("Welcome to our CashG Bank System!")
